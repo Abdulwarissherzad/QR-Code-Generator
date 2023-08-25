@@ -35,7 +35,7 @@ Once you've completed the information, you can save it to a specific drive or lo
 
 ## Inspiration
 
-* [Identify the Inspiration](https://www.qrcode-generator.de/a1/?gclid=CjwKCAjwoqGnBhAcEiwAwK-OkVemm4nZGvPfmdGBPdNBeN3OuWdMOpw1WO8ni8mKrS8gsLl0rGdKhxoC7hoQAvD_BwE&campaignid=1021196600&adgroupid=52999807645&cpid=da91f623-9ba9-4f2d-b401-2a296129e26b).
+* [My inspiration for developing this application was www.qrcode-generator.de](https://www.qrcode-generator.de/a1/?gclid=CjwKCAjwoqGnBhAcEiwAwK-OkVemm4nZGvPfmdGBPdNBeN3OuWdMOpw1WO8ni8mKrS8gsLl0rGdKhxoC7hoQAvD_BwE&campaignid=1021196600&adgroupid=52999807645&cpid=da91f623-9ba9-4f2d-b401-2a296129e26b).
 
 * In the next version, I will add all other components as well, like Bitcoin QR Code, MP3 QR Code, WiFi QR Code, and so on.
 
