@@ -11,7 +11,7 @@ The developed application is designed to generate a QR code for URL QR codes, te
 
 ## Demo and Jar file
 
-- [Download the Jar file](https://github.com/Abdulwarissherzad/QR-Code-Generator/blob/main/QRCodeGenerator-1.1.jar)
+- [Download the Jar file](https://github.com/Abdulwarissherzad/QR-Code-Generator/blob/main/QRcodegenerator.jar)
 ## Contact GUI
 
 ![Contact GUI'Contact GUI'](https://github.com/Abdulwarissherzad/QR-Code-Generator/blob/main/Pictures/Contact%20GUI.jpg)
