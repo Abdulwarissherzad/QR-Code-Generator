@@ -7,7 +7,7 @@
 
 
 Creating a Java Swing application to generate QR codes involves using the Swing GUI toolkit along with a QR code generation library. In this example, we demonstrate how to create a simple Java Swing application that generates QR codes using the ZXing library.
-The developed application is designed to generate a QR code for the message, URL, phone number, text, contact, and email.
+The developed application is designed to generate a QR code for URL QR codes, text QR codes, phone number QR codes, SMS QR codes, contact QR codes, and email QR codes..
 
 ## Demo and Jar file
 
