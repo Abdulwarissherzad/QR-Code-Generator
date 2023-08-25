@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <string></string>
+ <string></string>
+ <string></string>
+ <string>Abdul Waris</string>
+ <string>Sherzad</string>
+ <string></string>
+ <string>Sherzadwaris52@yahoo.com</string>
+ <string></string>
+ <string></string>
+ <string>Junior Java developer</string>
+ <string>Chemnitzer Str.44</string>
+ <string>Freiberg</string>
+ <string>Saxony</string>
+ <string>09599</string>
+ <string>Germany</string>
+ <string></string>
+ <string></string>
+ <string>Sherzadwaris52@yahoo.com</string>
+ <string>QRCodeGenerator Developing, and Deployment Completed</string>
+ <string>Dear Team,
+
+I am pleased to announce that the development and deployment phases of the
+project have been successfully completed. We are now ready for the official 
+release of the software.
+
+Best Regards,
+
+Sherzad
+
+SEE YOU!</string>
+ <string>272</string>
+ <string>19</string>
+ <string>683</string>
+ <string>805</string>
+ <string>5</string>
+</java>
