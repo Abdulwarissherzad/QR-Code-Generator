@@ -39,7 +39,7 @@ Once you've completed the information, you can save it to a specific drive or lo
 
 * In the next version, I will add all other components as well, like Bitcoin QR Code, MP3 QR Code, WiFi QR Code, and so on.
 
-* Furthermore, I could develop URL QR codes, text QR codes, phone number QR codes, SMS QR codes, contact QR codes, and email QR codes.
+* Furthermore, I developed URL QR codes, text QR codes, phone number QR codes, SMS QR codes, contact QR codes, and email QR codes.
 ## Contributing
 
 Contributions are always welcome!
